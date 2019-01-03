@@ -850,6 +850,18 @@ CStudioAuthoring.Messages.registerBundle("contentTypes", "en", {
     confTabEngineSiteConfigurationDesc: "Site configuration used by Crafter Engine",
     confTabEngineSiteAppContextConfiguration: "Engine Site Application Context",
     confTabEngineSiteAppContextConfigurationDesc: "Site application context used by Crafter Engine",
+    confTabMimeTypes: "Mime Types",
+    confTabMimeTypesDesc: "This file configures the mime types icons overrides for this site.",
+    confTabDependencyResolverConf: "Dependency Resolver Configuration",
+    confTabDependencyResolverConfDesc: "This file configures how to identify items and find dependencies in those items identified.",
+    confTabAWSProfiles: "AWS Profiles",
+    confTabAWSProfilesDesc: "This files configures 0 or more AWS profiles with the information required by AWS services.",
+    confTabBoxProfiles: "Box Profiles",
+    confTabBoxProfilesDesc: "This files configures 0 or more profiles with the information required by the Box API.",
+    confTabWebDAVProfiles: "WebDAV Profiles",
+    confTabWebDAVProfilesDesc: "This files configures 0 or more profiles with the information required to connect to a WebDAV server.",
+    confTabAssetProcessing: "Asset Processing",
+    confTabAssetProcessingDesc: "You can define in this file one or multiple pipelines to process static assets when they're uploaded",
 
     /* Image */
     constraintsError: "The uploaded file does not meet the specified width & height constraints",

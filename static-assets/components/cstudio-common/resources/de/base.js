@@ -850,6 +850,18 @@ CStudioAuthoring.Messages.registerBundle("contentTypes", "de", {
     confTabEngineSiteConfigurationDesc: "Konfigurationsdatei für Crafter Engine",
     confTabEngineSiteAppContextConfiguration: "Crafter Engine Application Context",
     confTabEngineSiteAppContextConfigurationDesc: "ApplicationContext Datei für Crafter Engine",
+    confTabMimeTypes: "Mime-Typen",
+    confTabMimeTypesDesc: "In dieser Datei können Icons für alle Mime-Typen im Projekt überschrieben werden.",
+    confTabDependencyResolverConf: "Dependency Resolver",
+    confTabDependencyResolverConfDesc: "In dieser Datei wird konfiguriert, wie Abhängigkeiten zwischen Elementen aufgelöst werden.",
+    confTabAWSProfiles: "AWS Profile",
+    confTabAWSProfilesDesc: "In dieser Datei werden alle im Projekt verwendeten AWS Services konfiguriert",
+    confTabBoxProfiles: "Box Profile",
+    confTabBoxProfilesDesc: "In dieser Datei können Profile für die Verwendung der Box API verwaltet werden.",
+    confTabWebDAVProfiles: "WebDAV Profile",
+    confTabWebDAVProfilesDesc: "In dieser Datei können Profile für die Verwendung von WebDAV Servern verwaltet werden.",
+    confTabAssetProcessing: "Asset-Verarbeitung",
+    confTabAssetProcessingDesc: "Konfiguriert Pipelines, um statische Assets automatisiert nach ihrem Upload verarbeiten zu können.",
 
     /* Image */
     constraintsError: "Das Bild entspricht nicht den geforderten Maßen",

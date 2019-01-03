@@ -778,6 +778,18 @@ CStudioAuthoring.Messages.registerBundle("contentTypes", "kr", {
     confTabEnvironmentConfigurationDesc: "이 파일은 Crafter Studio가 게시 할 수있는 환경을 구성합니다",
     confTabCMISConfiguration: "CMIS 구성",
     confTabCMISConfigurationDesc: "이 파일은 컨텐트 작성자가 선택할 수있는 0 이상의 CMIS 가능 리포지토리를 데이터 소스로 구성합니다",
+    confTabMimeTypes: "Mime Types",
+    confTabMimeTypesDesc: "This file configures the mime types icons overrides for this site.",
+    confTabDependencyResolverConf: "Dependency Resolver Configuration",
+    confTabDependencyResolverConfDesc: "This file configures how to identify items and find dependencies in those items identified.",
+    confTabAWSProfiles: "AWS Profiles",
+    confTabAWSProfilesDesc: "This files configures 0 or more AWS profiles with the information required by AWS services.",
+    confTabBoxProfiles: "Box Profiles",
+    confTabBoxProfilesDesc: "This files configures 0 or more profiles with the information required by the Box API.",
+    confTabWebDAVProfiles: "WebDAV Profiles",
+    confTabWebDAVProfilesDesc: "This files configures 0 or more profiles with the information required to connect to a WebDAV server.",
+    confTabAssetProcessing: "Asset Processing",
+    confTabAssetProcessingDesc: "You can define in this file one or multiple pipelines to process static assets when they're uploaded",
 
     /* Errors */
     error: "오류",
